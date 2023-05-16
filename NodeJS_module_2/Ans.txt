@@ -1,0 +1,43 @@
+                // que.1 . What is Node.js? Where can you use it?
+
+/*
+Node js is an open-source, cross platform JavaScript runtime environment and library for running web applications outside the client's browser.
+
+Ryan Dahal developed it in 2009, and its latest iteration version 15.14, was released in  April 2021. 
+
+Node.js is commonly used to develop real time applications, also knows as RTAs(REAL TIME APPLICATIONS). Its asy nchrounous event-driven nature allows it to handle heavy input-output oprqations which makes it much esier for node.js developers to achieve the level of perfomance user have come to expect frome modern real time application.
+*/
+//***********************************************************************************
+
+
+
+                  //que.2  Explain callback in Node.js.
+
+/*
+Node. js callbacks are a special type of function passed as an argument to another function. They're called when the function that contains the callback as an argument completes its execution, and allows the code in the callback to run in the meantime. Callbacks help us make asynchronous calls.
+*/
+
+//***********************************************************************************
+
+
+        // que.3 What are the advantages of using promises instead of callbacks?
+
+ /*Node. js callbacks are a special type of function passed as an argument to another function. They're called when the function that contains the callback as an argument completes its execution, and allows the code in the callback to run in the meantime. Callbacks help us make asynchronous calls. */
+ //***********************************************************************************
+
+
+
+                                 //que 4. what is npm ?
+
+    /*
+    npm is the world's largest software library
+    
+    npm is also a software package manager and installer.*/                             
+//***********************************************************************************
+
+
+                  //que 5.. What are the modules in Node.js? Explain
+
+
+  Modules are the blocks of encapsulated code that communicate with an external application on the basis of their related functionality.
+
